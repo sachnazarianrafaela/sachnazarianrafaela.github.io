@@ -564,7 +564,7 @@ body.section-switching.up .animation-block{
 	-ms-transform:rotate(-4deg);
 	-o-transform:rotate(-4deg);
 	transform:rotate(-4deg);
-	background:#303F9F;
+	background:;
 	opacity:0;
 	visibility:hidden;
 	z-index:-1;
@@ -687,7 +687,7 @@ body.section-switching.up .animation-block{
 	right:0;
 	top:-10px;
 	bottom:-10px;
-	background:#303F9F;
+	background:;
 	-webkit-transform:rotate(-4deg);
 	-moz-transform:rotate(-4deg);
 	-ms-transform:rotate(-4deg);
@@ -831,7 +831,7 @@ body.section-switching.up .animation-block{
 }
 .testimonial > .icon{
 	font-size:64px;
-	color:#303F9F;
+	color:;
 	opacity:.6;
 }
 .testimonial > p{
@@ -941,7 +941,7 @@ body.section-switching.up .animation-block{
 	bottom:0;
 	right:-10px;
 	left:-10px;
-	background:#303F9F;
+	background:;
 	opacity:.9;
 	-webkit-transform:rotate(0deg) scale(0);
 	-moz-transform:rotate(0deg) scale(0);
@@ -1000,7 +1000,7 @@ body.section-switching.up .animation-block{
 
 /* Project Popup */
 .mfp-bg{
-	background:#303F9F;
+	background:white;
 }
 .my-mfp-zoom-in .zoom-anim-dialog {
 	opacity: 0;
@@ -1438,8 +1438,8 @@ body.loaded #preloader .loader{
 	height:140px;
 	width:140px;
 	border:solid 4px #FFF;
-	border-top-color:#303F9F;
-	border-right-color:#303F9F;
+	border-top-color:;
+	border-right-color:;
 	border-radius:50%;
 	position:absolute;
 	top:50%;
